@@ -6,6 +6,7 @@ export default function Card({ children }) {
     <StyledCard>
       <h2>{children}</h2>
       <Button></Button>
+      <Button></Button>
     </StyledCard>
   );
 }
